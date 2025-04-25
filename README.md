@@ -90,6 +90,8 @@ We are in the process of registering the software under an Open Source License.
 - Dr. Julian Dederke 
 
    [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/dederkej)
+  
+- Dr. Teresa Kubacka
 
 ## About TOBI
 Towards Open Bibliometric Indicators (TOBI) is a project co-founded by the ETH Library and swissuniversities within the Open Science Program. 
