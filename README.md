@@ -33,6 +33,7 @@ This repository contains Jupyter Notebooks and dependencies for conducting initi
 
 ### Files:
 - `requirements.txt` - List of required Python packages (install using `pip install -r requirements.txt`).
+- `open_colors.py` - Open source color scheme we use for the visualizations.
 - `openalex_first_analyses.ipynb` - Initial analyses of bibliometric data from OpenAlex.
 - `openaire_first_analyses.ipynb` - Initial analyses of bibliometric data from OpenAIRE.
 - `openalex_oa_analyses.ipynb` - Analysis of Open Access (OA) published article trends using OpenAlex.
