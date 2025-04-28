@@ -49,7 +49,7 @@ We recommend using a virtual environment to manage dependencies.
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://gitlab.ethz.ch/kom/projects/tobi-portfolio.git
+   git clone https://github.com/eth-library/tobi-portfolio
    ```
 2. Create a virtual environment and activate it:
    ```bash
