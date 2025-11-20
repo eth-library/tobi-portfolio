@@ -1,7 +1,6 @@
-requests
-pandas
-datetime
-matplotlib
-numpy
-seaborn
-ipykernel
+requests==2.32.5
+pandas==2.3.3
+matplotlib==3.10.7
+numpy==2.3.5
+seaborn==0.13.2
+ipykernel==7.1.0
