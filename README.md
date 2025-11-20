@@ -17,6 +17,7 @@ Using open data sources for research assessment enables more compliance with [DO
 The portfolio currently includes two open **bibliometric data sources**, OpenAlex and OpenAIRE.
 
 - [OpenAIRE](https://www.openaire.eu/)
+   - Note: The data extraction has been updated to [Walden](https://oreo.openalex.org/), the full rewrite of OpenAlex. If you wish to know more or to access older versions of OpenAlex, check out [this link](https://groups.google.com/g/openalex-users/c/-1_wU8yQXGk)
 - [OpenAlex](https://openalex.org/)
 
 
