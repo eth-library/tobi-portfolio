@@ -30,7 +30,7 @@ This portfolio offers scripts to start using the API of open bibliometric data s
 
 ## Repository Contents
 
-This repository contains Jupyter Notebooks and dependencies for conducting initial bibliometric analyses.
+This repository contains Jupyter Notebooks, Python scripts and dependencies for conducting initial bibliometric analyses.
 
 ### Files:
 
@@ -38,7 +38,7 @@ This repository contains Jupyter Notebooks and dependencies for conducting initi
 - `requirements.txt` - List of required Python packages (install using `pip install -r requirements.txt`).
 - `open_colors.py` - Open source color scheme we use for most the visualizations.
 - `language_abbreviations.py` - A dictionary mapping of language abbreviations to full language names.
-- `swiss_universities.py` - A dictionary mapping of swiss universities to OpenAlex IDs.
+- `swiss_universities.py` - A dictionary mapping of Swiss higher education institutions to OpenAlex IDs.
 
 ##### Starter Notebooks
 - `openalex_first_analyses.ipynb` - Initial analyses of bibliometric data from OpenAlex.
