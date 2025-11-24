@@ -33,12 +33,24 @@ This portfolio offers scripts to start using the API of open bibliometric data s
 This repository contains Jupyter Notebooks and dependencies for conducting initial bibliometric analyses.
 
 ### Files:
+
+##### 
 - `requirements.txt` - List of required Python packages (install using `pip install -r requirements.txt`).
-- `open_colors.py` - Open source color scheme we use for the visualizations.
+- `open_colors.py` - Open source color scheme we use for most the visualizations.
+- `language_abbreviations.py` - A dictionary mapping of language abbreviations to full language names.
+- `swiss_universities.py` - A dictionary mapping of swiss universities to OpenAlex IDs.
+
+##### Starter Notebooks
 - `openalex_first_analyses.ipynb` - Initial analyses of bibliometric data from OpenAlex.
 - `openaire_first_analyses.ipynb` - Initial analyses of bibliometric data from OpenAIRE.
 - `openalex_oa_analyses.ipynb` - Analysis of Open Access (OA) published article trends using OpenAlex.
 - `openaire_oa_analyses.ipynb` - Analysis of Open Access (OA) published article trends using OpenAIRE.
+
+##### Advanced Notebooks
+- `openalex_language_distr_single_institutions.ipynb` - Analysis of non-English articles published by a selected institution.
+- `openalex_language_distr_multi_institutions.ipynb` - Analysis of non-English articles across Swiss HEIs.
+- `openalex_research_domains_nonenglish.ipynb` - Analysis of the research domain distribution of non-English articles.
+- `openalex_landing_page_domains.ipynb` - Analysis of the most frequent landing page domains and prefixes across Swiss HEIs.
 
 ## Getting Started
 
